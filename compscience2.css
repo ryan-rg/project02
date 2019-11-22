@@ -1,0 +1,42 @@
+
+.grid {
+  display: grid;
+  border: 5px black solid;
+  width: 600px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 50% 50% ;
+}
+
+.box {
+  color: black;
+  border-radius: 5px;
+  border: 2px Grey solid;
+  font-size:25px;
+ 
+}
+img{
+	height:248px;
+	width:200px;
+}
+
+.a{font-size: 24px;}
+
+ h1{
+  font-family:Didot;
+  text-align:center;
+  color:white;
+border:5px Black solid;
+}
+
+#grid {
+display: grid ;
+border: 2px black solid;
+width: 910px;
+grid-template-rows: 75% 75%;
+height: 1750px;
+
+}
+
+
+
