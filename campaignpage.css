@@ -1,4 +1,6 @@
-
+body {
+	background-color: grey;
+}
 .grid {
   display: grid;
   border: 5px black solid;
